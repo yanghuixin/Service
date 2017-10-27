@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LeaderService/LeaderService.iml" filepath="$PROJECT_DIR$/LeaderService/LeaderService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recorder/Recorder.iml" filepath="$PROJECT_DIR$/Recorder/Recorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RunService/RunService.iml" filepath="$PROJECT_DIR$/RunService/RunService.iml" />
       <module fileurl="file://$PROJECT_DIR$/Service.iml" filepath="$PROJECT_DIR$/Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartService/StartService.iml" filepath="$PROJECT_DIR$/StartService/StartService.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

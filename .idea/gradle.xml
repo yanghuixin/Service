@@ -8,6 +8,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/LeaderService" />
+            <option value="$PROJECT_DIR$/Recorder" />
+            <option value="$PROJECT_DIR$/RunService" />
+            <option value="$PROJECT_DIR$/StartService" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
