@@ -9,10 +9,19 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/LeaderService" />
+            <option value="$PROJECT_DIR$/MusicPlayer" />
             <option value="$PROJECT_DIR$/Recorder" />
             <option value="$PROJECT_DIR$/RunService" />
             <option value="$PROJECT_DIR$/StartService" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/代码注册广播接收者" />
+            <option value="$PROJECT_DIR$/启动远程服务" />
+            <option value="$PROJECT_DIR$/国际化" />
+            <option value="$PROJECT_DIR$/圈钱手游" />
+            <option value="$PROJECT_DIR$/对话框" />
+            <option value="$PROJECT_DIR$/支付宝模拟支付" />
+            <option value="$PROJECT_DIR$/样式和主题" />
+            <option value="$PROJECT_DIR$/远程服务" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

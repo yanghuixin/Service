@@ -1,1 +1,1 @@
-include ':app', ':RunService', ':Recorder', ':StartService', ':LeaderService'
+include ':app', ':RunService', ':Recorder', ':StartService', ':LeaderService', ':MusicPlayer', ':代码注册广播接收者', ':远程服务', ':启动远程服务', ':支付宝模拟支付', ':圈钱手游', ':对话框', ':样式和主题', ':国际化'

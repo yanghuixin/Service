@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">国际化</string>
+    <string name="helloworld">美式helloworld</string>
+</resources>

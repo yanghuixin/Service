@@ -38,6 +38,11 @@ public class MainActivity extends AppCompatActivity {
         unbindService(conn);
     }
 
+    public void jump(View view) {
+        Intent intent = new Intent(this,SecondActivity.class);
+        startActivity(intent);
+    }
+
     class Myconn implements ServiceConnection{
 
         //到服务的连接被建立，此方法被调用
